@@ -15,4 +15,4 @@
 449m
 
 ### dockerhub 
-`docker pull zwww7766/jdk:1.8.0-u212.headless.cn:latest`
+`docker pull zwww7766/jdk.8u212.headless.cn:latest`
